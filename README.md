@@ -1,5 +1,5 @@
 # mysql_crud_operation
-# some Screen shot
+# Some Screen shot
 
 <b>1- Add User </b>
 <img src="https://user-images.githubusercontent.com/46772783/111017256-46447c00-83d8-11eb-92df-6795a0f8eb8e.png"/>
